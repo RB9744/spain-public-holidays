@@ -1,0 +1,15 @@
+{
+  "name": "spain-holidays",
+  "version": "2027.0.0",
+  "description": "Official public holidays of Spain for 2027: national dates plus the 17 autonomous communities, with the bulletin each one comes from (BOE, BOA, BOC, BON, DOCM, DOGC...). JSON, zero dependencies.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": ["index.js", "index.d.ts", "data-2027.json", "README.md", "LICENSE"],
+  "keywords": ["spain", "holidays", "festivos", "calendario-laboral", "public-holidays", "espana", "2027", "boe"],
+  "homepage": "https://sueldoclaro.es/calendario-laboral-2027/",
+  "repository": { "type": "git", "url": "git+https://github.com/RB9744/spain-public-holidays.git" },
+  "bugs": { "url": "https://github.com/RB9744/spain-public-holidays/issues" },
+  "author": "SueldoClaro (https://sueldoclaro.es/)",
+  "license": "CC-BY-4.0",
+  "engines": { "node": ">=14" }
+}
