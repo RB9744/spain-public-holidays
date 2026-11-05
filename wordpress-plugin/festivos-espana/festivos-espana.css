@@ -1,0 +1,10 @@
+.fes-wrap{margin:1em 0}
+.fes-table{width:100%;border-collapse:collapse;font-size:.95em}
+.fes-table caption{text-align:left;font-weight:600;padding:.4em 0}
+.fes-table th,.fes-table td{border-bottom:1px solid #ddd;padding:.45em .6em;text-align:left;vertical-align:top}
+.fes-table th{background:#f5f5f5}
+.fes-row.fes-past td{color:#888}
+.fes-row.fes-today td{background:#fff7d6;font-weight:600}
+.fes-source,.fes-credit{font-size:.85em;color:#555;margin:.5em 0 0}
+.fes-next,.fes-today-msg{margin:.6em 0}
+.fes-today-msg.fes-yes{font-weight:600}
